@@ -13,6 +13,6 @@
  	<a href = "mailto:thiagohomem@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ThiagoGTH/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/ThiagoGTH/Thiago/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/ThiagoGTH/Thiago/f40bbc79671315a9d53d8e7e079f820f4fc5abbe/github-contribution-grid-snake.svg)
   
   </div></p>
