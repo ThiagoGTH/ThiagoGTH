@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/thiargo" target="blank"><img src="https://img.shields.io/twitter/follow/thiargo?logo=twitter&style=for-the-badge" alt="thiargo" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced Roleplay**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thiargo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiargo" height="30" width="40" /></a>
